@@ -1,0 +1,52 @@
+------------------fanduel odds data------------------
+Washington Wizards (340) @ Cleveland Cavaliers (-430)
+Milwaukee Bucks (-158) @ Indiana Pacers (134)
+Oklahoma City Thunder (-108) @ Atlanta Hawks (-108)
+Brooklyn Nets (152) @ Houston Rockets (-180)
+Toronto Raptors (100) @ Memphis Grizzlies (-118)
+New Orleans Pelicans (200) @ Minnesota Timberwolves (-245)
+Chicago Bulls (310) @ New York Knicks (-390)
+Portland Trail Blazers (460) @ Dallas Mavericks (-620)
+LA Clippers (-176) @ Phoenix Suns (148)
+Detroit Pistons (275) @ Utah Jazz (-340)
+Miami Heat (194) @ Los Angeles Lakers (-235)
+Orlando Magic (162) @ Sacramento Kings (-194)
+---------------XGBoost Model Predictions---------------
+Cleveland Cavaliers (72.3%) vs Washington Wizards: UNDER 239 (87.1%)
+Indiana Pacers vs Milwaukee Bucks (52.8%): UNDER 257.5 (96.9%)
+Atlanta Hawks vs Oklahoma City Thunder (63.5%): UNDER 248.5 (52.7%)
+Houston Rockets (71.4%) vs Brooklyn Nets: OVER 221 (71.9%)
+Memphis Grizzlies vs Toronto Raptors (67.7%): OVER 228 (80.7%)
+Minnesota Timberwolves (71.5%) vs New Orleans Pelicans: OVER 222.5 (56.7%)
+New York Knicks (75.3%) vs Chicago Bulls: OVER 220.5 (64.3%)
+Dallas Mavericks (71.8%) vs Portland Trail Blazers: OVER 238.5 (63.7%)
+Phoenix Suns vs LA Clippers (50.8%): UNDER 233 (82.8%)
+Utah Jazz (54.1%) vs Detroit Pistons: UNDER 240 (72.1%)
+Los Angeles Lakers (51.5%) vs Miami Heat: UNDER 228.5 (65.3%)
+Sacramento Kings (54.4%) vs Orlando Magic: OVER 231 (83.1%)
+------------Expected Value & Kelly Criterion-----------
+Cleveland Cavaliers EV: -10.91 Fraction of Bankroll: 0%
+Washington Wizards EV: 21.96 Fraction of Bankroll: 6.46%
+Indiana Pacers EV: 10.47 Fraction of Bankroll: 7.81%
+Milwaukee Bucks EV: -13.79 Fraction of Bankroll: 0%
+Atlanta Hawks EV: -29.79 Fraction of Bankroll: 0%
+Oklahoma City Thunder EV: 22.38 Fraction of Bankroll: 24.34%
+Houston Rockets EV: 11.08 Fraction of Bankroll: 20.35%
+Brooklyn Nets EV: -27.95 Fraction of Bankroll: 0%
+Memphis Grizzlies EV: -40.33 Fraction of Bankroll: 0%
+Toronto Raptors EV: 35.41 Fraction of Bankroll: 35.41%
+Minnesota Timberwolves EV: 0.7 Fraction of Bankroll: 2.04%
+New Orleans Pelicans EV: -14.54 Fraction of Bankroll: 0%
+New York Knicks EV: -5.41 Fraction of Bankroll: 0%
+Chicago Bulls EV: 1.34 Fraction of Bankroll: 0.43%
+Dallas Mavericks EV: -16.62 Fraction of Bankroll: 0%
+Portland Trail Blazers EV: 57.95 Fraction of Bankroll: 12.6%
+Phoenix Suns EV: 21.99 Fraction of Bankroll: 14.86%
+LA Clippers EV: -20.32 Fraction of Bankroll: 0%
+Utah Jazz EV: -30.04 Fraction of Bankroll: 0%
+Detroit Pistons EV: 72.29 Fraction of Bankroll: 26.29%
+Los Angeles Lakers EV: -26.61 Fraction of Bankroll: 0%
+Miami Heat EV: 42.65 Fraction of Bankroll: 21.98%
+Sacramento Kings EV: -17.55 Fraction of Bankroll: 0%
+Orlando Magic EV: 19.45 Fraction of Bankroll: 12.01%
+-------------------------------------------------------
