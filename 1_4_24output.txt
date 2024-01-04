@@ -1,0 +1,18 @@
+/Users/nickgula/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:34: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.RestoredOptimizer` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.RestoredOptimizer`.
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.RestoredOptimizer` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.RestoredOptimizer`.
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+------------------fanduel odds data------------------
+Milwaukee Bucks (-420) @ San Antonio Spurs (330)
+Denver Nuggets (-154) @ Golden State Warriors (130)
+---------------XGBoost Model Predictions---------------
+San Antonio Spurs vs Milwaukee Bucks (67.3%): UNDER 247.5 (90.7%)
+Golden State Warriors vs Denver Nuggets (55.7%): UNDER 235.5 (53.0%)
+------------Expected Value & Kelly Criterion-----------
+San Antonio Spurs EV: 40.46 Fraction of Bankroll: 12.26%
+Milwaukee Bucks EV: -16.63 Fraction of Bankroll: 0%
+Golden State Warriors EV: 1.92 Fraction of Bankroll: 1.47%
+Denver Nuggets EV: -8.15 Fraction of Bankroll: 0%
+-------------------------------------------------------
