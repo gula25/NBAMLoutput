@@ -49,4 +49,12 @@ Los Angeles Lakers EV: -26.61 Fraction of Bankroll: 0%
 Miami Heat EV: 42.65 Fraction of Bankroll: 21.98%
 Sacramento Kings EV: -17.55 Fraction of Bankroll: 0%
 Orlando Magic EV: 19.45 Fraction of Bankroll: 12.01%
--------------------------------------------------------
+-------------------------------------------------------H
+Heat 1
+Pistons -.36
+Trail Blazers -.26
+Rockets 1
+Raptors 1
+Thunder -1.08
+-------------------------------------------------------H
+1 3 24 - +1.7 units
