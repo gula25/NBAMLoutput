@@ -64,3 +64,12 @@ Detroit Pistons EV: 57.06 Fraction of Bankroll: 15.85%
 Los Angeles Lakers EV: 10.42 Fraction of Bankroll: 17.7%
 Memphis Grizzlies EV: -26.5 Fraction of Bankroll: 0%
 -------------------------------------------------------
+Jazz
+Pacers
+Wizards
+Hornets
+Rockets
+Magic
+Lakers
+Pistons
+Cavs Wiz Under 237.5
