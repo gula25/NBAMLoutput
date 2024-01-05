@@ -1,0 +1,66 @@
+/Users/nickgula/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:34: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.RestoredOptimizer` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.RestoredOptimizer`.
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.RestoredOptimizer` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.RestoredOptimizer`.
+WARNING:absl:At this time, the v2.11+ optimizer `tf.keras.optimizers.Adam` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.Adam`.
+------------------fanduel odds data------------------
+Atlanta Hawks (130) @ Indiana Pacers (-154)
+Utah Jazz (750) @ Boston Celtics (-1200)
+Oklahoma City Thunder (-215) @ Brooklyn Nets (180)
+Washington Wizards (385) @ Cleveland Cavaliers (-500)
+New York Knicks (194) @ Philadelphia 76ers (-235)
+Charlotte Hornets (340) @ Chicago Bulls (-430)
+LA Clippers (-112) @ New Orleans Pelicans (-104)
+Minnesota Timberwolves (-166) @ Houston Rockets (140)
+Portland Trail Blazers (350) @ Dallas Mavericks (-450)
+Orlando Magic (350) @ Denver Nuggets (-450)
+Miami Heat (134) @ Phoenix Suns (-158)
+Toronto Raptors (164) @ Sacramento Kings (-196)
+Detroit Pistons (360) @ Golden State Warriors (-460)
+Memphis Grizzlies (146) @ Los Angeles Lakers (-174)
+---------------XGBoost Model Predictions---------------
+Indiana Pacers (63.6%) vs Atlanta Hawks: UNDER 262 (65.3%)
+Boston Celtics (79.0%) vs Utah Jazz: UNDER 239 (55.2%)
+Brooklyn Nets vs Oklahoma City Thunder (62.5%): UNDER 234 (78.5%)
+Cleveland Cavaliers (73.2%) vs Washington Wizards: UNDER 237.5 (88.3%)
+Philadelphia 76ers (66.6%) vs New York Knicks: OVER 231.5 (70.1%)
+Chicago Bulls (65.5%) vs Charlotte Hornets: OVER 220 (64.2%)
+New Orleans Pelicans (53.3%) vs LA Clippers: UNDER 230.5 (66.7%)
+Houston Rockets (52.7%) vs Minnesota Timberwolves: UNDER 217.5 (55.3%)
+Dallas Mavericks (74.4%) vs Portland Trail Blazers: OVER 236 (63.9%)
+Denver Nuggets (67.9%) vs Orlando Magic: OVER 223 (60.2%)
+Phoenix Suns (54.4%) vs Miami Heat: UNDER 228.5 (65.7%)
+Sacramento Kings (60.0%) vs Toronto Raptors: UNDER 238 (63.5%)
+Golden State Warriors (65.9%) vs Detroit Pistons: UNDER 239 (79.0%)
+Los Angeles Lakers (70.1%) vs Memphis Grizzlies: UNDER 226 (54.4%)
+------------Expected Value & Kelly Criterion-----------
+Indiana Pacers EV: 4.93 Fraction of Bankroll: 7.65%
+Atlanta Hawks EV: -16.33 Fraction of Bankroll: 0%
+Boston Celtics EV: -14.36 Fraction of Bankroll: 0%
+Utah Jazz EV: 78.08 Fraction of Bankroll: 10.41%
+Brooklyn Nets EV: 5.05 Fraction of Bankroll: 2.81%
+Oklahoma City Thunder EV: -8.46 Fraction of Bankroll: 0%
+Cleveland Cavaliers EV: -12.16 Fraction of Bankroll: 0%
+Washington Wizards EV: 29.99 Fraction of Bankroll: 7.79%
+Philadelphia 76ers EV: -5.12 Fraction of Bankroll: 0%
+New York Knicks EV: -1.68 Fraction of Bankroll: 0%
+Chicago Bulls EV: -19.24 Fraction of Bankroll: 0%
+Charlotte Hornets EV: 51.7 Fraction of Bankroll: 15.2%
+New Orleans Pelicans EV: 4.48 Fraction of Bankroll: 4.58%
+LA Clippers EV: -11.54 Fraction of Bankroll: 0%
+Houston Rockets EV: 26.43 Fraction of Bankroll: 18.88%
+Minnesota Timberwolves EV: -24.17 Fraction of Bankroll: 0%
+Dallas Mavericks EV: -9.09 Fraction of Bankroll: 0%
+Portland Trail Blazers EV: 15.27 Fraction of Bankroll: 4.36%
+Denver Nuggets EV: -17.02 Fraction of Bankroll: 0%
+Orlando Magic EV: 44.49 Fraction of Bankroll: 12.71%
+Phoenix Suns EV: -11.2 Fraction of Bankroll: 0%
+Miami Heat EV: 6.75 Fraction of Bankroll: 5.04%
+Sacramento Kings EV: -9.45 Fraction of Bankroll: 0%
+Toronto Raptors EV: 5.71 Fraction of Bankroll: 3.48%
+Golden State Warriors EV: -19.83 Fraction of Bankroll: 0%
+Detroit Pistons EV: 57.06 Fraction of Bankroll: 15.85%
+Los Angeles Lakers EV: 10.42 Fraction of Bankroll: 17.7%
+Memphis Grizzlies EV: -26.5 Fraction of Bankroll: 0%
+-------------------------------------------------------
